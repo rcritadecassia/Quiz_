@@ -27,7 +27,7 @@ questoes = [
     {
         "pergunta" : "Qual é o maior planeta do sistema solar?",
         "opcoes"   :  ["Marte", "Saturno", "Júpiter", "Vênus"],
-        "resposta" :  "Jupiter"
+        "resposta" :  "Júpiter"
     }
 ]
 
